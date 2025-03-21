@@ -1,2 +1,3 @@
 # pandas-challenge
-This is a homework challenge where I analyze school data using what I learned in Pandas
+This repo is the analysis from my SMU Data Science Bootcamp Lecture 4 challenge where I showcased what I learned<br>
+using the Pandas library analyzing the PySchool dataset. 
